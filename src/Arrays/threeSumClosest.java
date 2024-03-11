@@ -1,5 +1,5 @@
 package Arrays;
-
+import java.util.Arrays;
 public class threeSumClosest {
     // naive solution O(n^3)
     static int closest(int[]arr , int x){
@@ -18,10 +18,42 @@ public class threeSumClosest {
         return closestSum;
     }
     // optimised (two-pointer)
+    static int threeSumClosest(int[] nums, int target) {
+        int min_diff = Integer.MAX_VALUE;
+        int n = nums.length;
+        Arrays.sort(nums);
+        int cSum = 0;
+        for(int i = 0;i<n;i++){
+            int left = i+1;
+            int right = n-1;
+            while(left<right){
+                int sum = nums[i] + nums[left] + nums[right];
+                if(sum==target){
+                    return target;
+                }
+                else{
+                    int diff = Math.abs(target - sum);
+                    if(diff < min_diff){
+                        min_diff = diff;
+                        cSum = sum;
+                    }
+                }
+                if(sum<target){
+                    left++;
+                }
+                else if(sum>target){
+                    right--;
+                }
+            }
+        }
+        return cSum;
+    }
 
     public static void main(String[] args) {
         int arr[] = { -1, 2, 1, -4 };
         int x = 1;
         System.out.print(closest(arr, x));
+        System.out.println();
+        System.out.println(threeSumClosest(arr,x));
     }
 }
