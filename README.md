@@ -1,5 +1,5 @@
 EveryDay progess note :
-1. Problem : 3sum closest (Done) [Revision(date):              ] 
+1. Problem : 3sum closest (Done) [Revision(date):              ] link : https://leetcode.com/problems/3sum-closest/description/
 2. Problem :  [Revision(date):              ]
 3. Problem : [Revision(date):              ]
 4. Problem :  [Revision(date):              ] 
