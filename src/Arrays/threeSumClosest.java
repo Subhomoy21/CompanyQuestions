@@ -1,4 +1,4 @@
-package com.company.Arrays;
+package Arrays;
 
 public class threeSumClosest {
     // naive solution O(n^3)
