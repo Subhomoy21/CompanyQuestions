@@ -8,7 +8,7 @@ EveryDay progess note :
 7. Problem :  [Revision(date):              ] link :  https://leetcode.com/problems/length-of-last-word/description/
 8. Problem : [Revision(date):              ]
 9. Problem : [Revision(date):              ]
-10.Problem :  [Revision(date):              ]    
+10. Problem :  [Revision(date):              ]    
 11. Problem :  [Revision(date):              ]
 12. Problem :  [Revision(date):              ]
 13. Problem : [Revision(date):              ]
