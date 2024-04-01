@@ -5,6 +5,13 @@ EveryDay progess note :
 4. Problem : Find the Pivot Integer  [Revision(date):              ] link : https://leetcode.com/problems/find-the-pivot-integer/description/?envType=daily-question&envId=2024-03-13
 5. Problem : Product of Array Except Self  [Revision(date):              ] link : https://leetcode.com/problems/product-of-array-except-self/description/ !important
 6. Problem : Sum of Square Numbers [Revision(date):              ] link : https://leetcode.com/problems/sum-of-square-numbers/ // revisting two pointers!
-7. Problem : Length of Last Word [Revision(date):              ] link :  https://leetcode.com/problems/length-of-last-word/description/
+7. Problem :  [Revision(date):              ] link :  https://leetcode.com/problems/length-of-last-word/description/
+8. Problem : [Revision(date):              ]
+9. Problem : [Revision(date):              ]
+10.Problem :  [Revision(date):              ]    
+11. Problem :  [Revision(date):              ]
+12. Problem :  [Revision(date):              ]
+13. Problem : [Revision(date):              ]
+14. Problem :  [Revision(date):              ]
  
    
