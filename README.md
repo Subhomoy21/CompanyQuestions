@@ -4,7 +4,7 @@ EveryDay progess note :
 3. Problem : Difference Between Element Sum and Digit Sum of an Array [Revision(date): No Need] link : https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/
 4. Problem : Find the Pivot Integer  [Revision(date):              ] link : https://leetcode.com/problems/find-the-pivot-integer/description/?envType=daily-question&envId=2024-03-13
 5. Problem : Product of Array Except Self  [Revision(date):              ] link : https://leetcode.com/problems/product-of-array-except-self/description/ !important
-6. Problem : [Revision(date):              ]
+6. Problem : Sum of Square Numbers [Revision(date):              ] link : https://leetcode.com/problems/sum-of-square-numbers/ // revisting two pointers!
 7. Problem :  [Revision(date):              ]
  
    
