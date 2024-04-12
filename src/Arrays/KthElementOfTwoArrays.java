@@ -22,5 +22,6 @@ public class KthElementOfTwoArrays {
         int arr1[] = {2, 3, 6, 7, 9};
         int arr2[] = {1, 4, 8, 10};
         System.out.println(kthElement(arr1,arr2,5));
+
     }
 }
