@@ -7,7 +7,7 @@ EveryDay progess note :
 6. Problem : Sum of Square Numbers [Revision(date):              ] link : https://leetcode.com/problems/sum-of-square-numbers/ // revisting two pointers!
 7. Problem : Length of the last word [Revision(date):              ] link :  https://leetcode.com/problems/length-of-last-word/description/
 8. Problem : K-th element of two Arrays [Revision(date):              ] link : https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1
-9. Problem : [Revision(date):              ]
+9. Problem : Subarray Sum Equals K(noob wala hua hai) [Revision(date):              ] link : https://leetcode.com/problems/subarray-sum-equals-k/description/
 10. Problem :  [Revision(date):              ]    
 11. Problem :  [Revision(date):              ]
 12. Problem :  [Revision(date):              ]
